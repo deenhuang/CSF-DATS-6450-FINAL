@@ -1,4 +1,4 @@
 ## Authors
-* [Yupeng Yang]
+* Yupeng Yang
 
-* [Deen Huang]
+* Deen Huang
