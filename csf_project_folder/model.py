@@ -19,7 +19,7 @@ class TextClassifier():
 
     def fit(self, x, y):
 
-        self.classifier.fit(self.features(x), y)
+        return self.classifier.fit(self.features(x), y)
 
     def predict(self, x):
 

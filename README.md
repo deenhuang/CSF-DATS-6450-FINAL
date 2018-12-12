@@ -30,3 +30,4 @@
 > - main_train.py: this part describes how we train the model, steps includes load train data, model train, and validate model.
 
 > - main_predict.py: this part describes how we predict by the model, steps includes load data, load model, segment words and model predict.
+
