@@ -28,7 +28,12 @@ if __name__ == '__main__':
 
     columns = test_data_df.columns.tolist()
 
-
+    # seg words
+    logger.info("start seg test data")
+    content_test = test_data_df.iloc[:, 1]
+    content_test = seg_words(content_test)
+    logger.info("complete seg test data")
+    
     # model predict
     logger.info("start predict test data")
     for column in columns[2:]:
