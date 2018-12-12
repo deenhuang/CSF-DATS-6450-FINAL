@@ -6,7 +6,6 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] <%(processName)s> (%(threadName)s) %(message)s')
 logger = logging.getLogger(__name__)
 
-
 class TextClassifier():
 
     def __init__(self, vectorizer, classifier=MultinomialNB()):
