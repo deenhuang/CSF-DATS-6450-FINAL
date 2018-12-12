@@ -31,14 +31,3 @@
 
 > - main_predict.py: this part describes how we predict by the model, steps includes load data, load model, segment words and model predict.
 
-
-
-
-
-
-
-
-
-
-
-
