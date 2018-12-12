@@ -1,4 +1,4 @@
 ## Authors
-* [Yupeng Yang](https://github.com/yupengyanghuhu)
+* [Yupeng Yang]
 
-* [Deen Huang](https://github.com/deenhuang)
+* [Deen Huang]
