@@ -31,3 +31,12 @@
 
 > - main_predict.py: this part describes how we predict by the model, steps includes load data, load model, segment words and model predict.
 
+### Installation
+Type the following commands in your terminal.
+```
+git clone https://github.com/deenhuang/CSF-DATS-6450-FINAL.git
+
+cd CSF-DATS-6450-FINAL
+
+python3 setup.py install 
+```
